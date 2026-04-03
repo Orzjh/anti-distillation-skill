@@ -176,9 +176,6 @@ git clone https://github.com/Orzjh/anti-distillation-skill ~/.claude/skills/inci
 **企业文化**：
 字节范 · 阿里味 · 腾讯味 · 华为味 · 百度味 · 美团味 · 第一性原理 · OKR 狂热者
 
-**职级**：
-字节 2-1~3-3+ · 阿里 P5~P11 · 腾讯 T1~T4 · 百度 T5~T9 · 美团 P4~P8 · 华为 13~21 级
-
 ---
 
 ## 管理命令
