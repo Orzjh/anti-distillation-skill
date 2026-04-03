@@ -1,0 +1,33 @@
+# Incinerate.skill Dependencies
+# Python 3.9+ required
+
+# Core dependencies (standard library - no installation needed)
+# - json
+# - argparse
+# - random
+# - datetime
+# - typing
+
+# Optional dependencies for enhanced functionality
+# Uncomment as needed:
+
+# For advanced text analysis
+# nltk>=3.8.0
+
+# For natural language processing
+# spacy>=3.5.0
+
+# For data manipulation
+# pandas>=2.0.0
+
+# For configuration management
+# pyyaml>=6.0
+
+# For CLI enhancements
+# rich>=13.0.0
+# click>=8.1.0
+
+# Development dependencies
+# pytest>=7.0.0
+# black>=23.0.0
+# mypy>=1.0.0
