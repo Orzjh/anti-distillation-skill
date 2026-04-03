@@ -241,7 +241,6 @@ incinerate/
 
 This project draws architectural inspiration from:
 
-- **[Harness Engineering](https://openai.com/index/harness-engineering/)** (by OpenAI) — Agent-first software engineering methodology
 - **[colleague-skill](https://github.com/titanwings/colleague-skill)** (by titanwings) — Pioneered the dual-layer architecture for "distilling people into AI Skills"
 - **[ex-skill](https://github.com/therealXiaomanChu/ex-skill)** (by therealXiaomanChu) — Migrated the dual-layer architecture to intimate relationship scenarios
 - **[yourself-skill](https://github.com/notdog1998/yourself-skill)** (by notdog1998) — Turned the perspective inward to self-distillation

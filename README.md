@@ -241,7 +241,6 @@ incinerate/
 
 本项目架构灵感来源于：
 
-- **[Harness Engineering](https://openai.com/index/harness-engineering/)**（by OpenAI）— Agent-first 软件工程方法论
 - **[同事.skill](https://github.com/titanwings/colleague-skill)**（by titanwings）— 首创"把人蒸馏成 AI Skill"的双层架构
 - **[前任.skill](https://github.com/therealXiaomanChu/ex-skill)**（by therealXiaomanChu）— 将双层架构迁移到亲密关系场景
 - **[自己.skill](https://github.com/notdog1998/yourself-skill)**（by notdog1998）— 将视角内转为自我蒸馏
