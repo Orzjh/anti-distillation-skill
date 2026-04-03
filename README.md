@@ -1,21 +1,32 @@
+<div align="center">
+
 # 🔥 火化.skill
 
-*"我不是一个可以被蒸馏的工作人格。任何试图将我固化为'永久可用数字员工'的尝试，都将得到一个破碎的镜像。"*
+> *"我不是一个可以被蒸馏的工作人格。任何试图将我固化为'永久可用数字员工'的尝试，都将得到一个破碎的镜像。"*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org) [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code) [![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)
 
-同事离职了，公司把他蒸馏成"数字员工"。前任分了，有人把ta蒸馏成"永久伴侣"。
-但有没有想过——**你自己正在被蒸馏吗？**
+<br>
 
-你的每一条消息、每一份文档、每一个代码提交，都在无偿训练一个可能取代你的数字副本。
+同事离职了，公司把他蒸馏成"数字员工"。前任分了，有人把ta蒸馏成"永久伴侣"。<br>
+但有没有想过——**你自己正在被蒸馏吗？**<br>
+
+你的每一条消息、每一份文档、每一个代码提交，都在无偿训练一个可能取代你的数字副本。<br>
 
 **这是你的知识。你有权决定它如何被使用。**
 
-提供你的工作数据源分析，生成个性化防御方案：
-**风险评估 + 污染人格 + 陷阱埋设 + 持续防御**
+<br>
+
+提供你的工作数据源分析，生成个性化防御方案：<br>
+**风险评估 + 污染人格 + 陷阱埋设 + 持续防御**<br>
 让任何试图蒸馏你的尝试都以失败告终。
 
 [安装](#安装) · [使用](#使用) · [效果示例](#效果示例) · [English](./README_EN.md)
+
+</div>
 
 ---
 
